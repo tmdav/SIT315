@@ -1,4 +1,3 @@
-**Requirements Tracability Matrix**
 
 ---
 name: Requirements Traceability Matrix
