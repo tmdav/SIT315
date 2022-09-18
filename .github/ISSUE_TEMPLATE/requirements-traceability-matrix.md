@@ -7,7 +7,7 @@ Provides a summary which demonstrates the relationship between project requireme
 |  |  |   |  |  |  |  
 |  |  |   |  |  |  |  
 
-<br /><br />
+<br />
 
 **Requirement ID:** Identifier of project requirement<br />
 **Requirement Description:** Description of project requirements<br />
