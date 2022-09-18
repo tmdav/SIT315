@@ -1,5 +1,11 @@
 Traceability Matrix
 
-test1 | Test 2 | Test3 | Test 4 
+| First Header  | Second Header | Third Header  | Fourth Header |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
+
+
 
 Test - Description
