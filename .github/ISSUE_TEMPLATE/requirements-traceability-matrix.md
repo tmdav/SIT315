@@ -6,12 +6,12 @@ This allows visibility of requirements that have been tested and the status of t
 | Requirement ID  | Requirement Description | Test Case ID  | Test Case Priority | Test Case Status (P/F) | Defect ID | Additional Comments |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  |  |   |  |  |  |  |
+|  |  |   |  |  |  |  | <br />
 
-
-**Requirement ID:** Identify each project requirement<br />
-**Requirement Description:** Description of project requirements<br />
-**Test Case ID:** Identifier of test cases related to a requirement. Multiple test cases may apply to single requirement<br />
+**Requirement ID:** Identify each project requirement<br /> <br />
+**Requirement Description:** Description of project requirements<br /> <br />
+**Test Case ID:** Identifier of test cases related to a requirement. Multiple test cases may apply to single requirement<br /> <br />
 **Test Case Priority:** Priority - Low/Medium/High<br />
 **Test Case Status:** Status of Test Case - Pass/Fail<br />
-**Defect ID:**Identifier of any defects found (if applicable)<br />
+**Defect ID:** Identifier of any defects found (if applicable)<br />
 **Additional Comments:** Add any additional comments that are related to this requirement<br />
