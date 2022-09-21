@@ -9,6 +9,7 @@ The purpose of managing quality records is to:
 - Assure future availability of documents that can be used for software maintenance, further development, investigation of software failures or unmet requirements.
 
 DreamBig quality record templates currently include:
+- [Requirements traceability matrix](https://link-url-here.org)
 - Requirements traceability matrix
 - Test case template
 - QA Status report
